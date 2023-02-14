@@ -5,6 +5,7 @@ import Button from "react-bootstrap/Button";
 import Sign_img from '../Sign/Sign_img';
 import { NavLink } from 'react-router-dom';
 
+
  const Home = () => {
     const [inpval,setInpval] = useState({
         name:"",
